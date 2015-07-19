@@ -1,0 +1,2 @@
+example ALL=/sbin/hwclock, /usr/sbin/vbetool
+example ALL=NOPASSWD: /usr/sbin/alsactl
